@@ -8,11 +8,11 @@
 ![Pybytes dashboard](Screenshot.png)
 
 ## led colors
-YELLOW # connecting
-GREEN  # connected
-RED    # connection failed
-PURPLE # wait for button
-ORANGE # maintenance mode
+* YELLOW # connecting
+* GREEN  # connected
+* RED    # connection failed
+* PURPLE # wait for button
+* ORANGE # maintenance mode
 
 ## process
 1. boot.py                                    - [YELLOW]
